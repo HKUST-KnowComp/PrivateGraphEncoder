@@ -17,6 +17,12 @@ We propose an independent regularization for private graph representation learni
 * torch >= 1.12
 * dgl == 0.9.0
 
+### Data Preparation
+
+Please download the dataset used at [Onedrive](https://hkustconnect-my.sharepoint.com/:u:/g/personal/qhuaf_connect_ust_hk/EYbgrMZX3-hGpTltvE6A7xcBt059Scv8a5OBfvwLun1JDA?e=qYEPok).
+
+Unzip the file and put it under the root directory of this project.
+
 ### Train PVGAE
 
 PVGAE sample usage at Credit defaulter dataset:
