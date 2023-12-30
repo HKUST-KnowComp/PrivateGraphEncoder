@@ -41,7 +41,13 @@ python main_APGE.py --model APGE --dataset credit --lr 0.001 --epoch 500 --hidde
 The details of this pipeline are described in the following paper. If you use this code in your work, please kindly cite it.
 
 ```bibtex
-
+@inproceedings{hu2023independent,
+  title={Independent Distribution Regularization for Private Graph Embedding},
+  author={Hu, Qi and Song, Yangqiu},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages={823--832},
+  year={2023}
+}
 ```
 
 ### Miscellaneous
